@@ -1,2 +1,2 @@
 # powerbi-sales-dashboard
-Project on Creation of Sales Dashboard
+Multi-page Power BI sales dashboard with advanced DAX measures
